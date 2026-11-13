@@ -1,0 +1,3 @@
+[tool.tortoise]
+tortoise_orm = "database.database_setup.TORTOISE_ORM"
+
